@@ -1,10 +1,11 @@
 # EXP-3
-EXPT NO: 3				STAIR CASE WIRING                     
-
+## EXPT NO: 3 STAIR CASE WIRING                     
+## Name : Ramitha chowdary S
+## Reg no: 212224240130
  
-AIM
+## AIM
  To control the status of the given lamp by using two–way switches. 
-APPARATUS REQUIRED:
+## APPARATUS REQUIRED:
 
 S. No.
 Name of the apparatus	
@@ -20,13 +21,14 @@ Quantity
 7	Round block	-	1 No.
 
 
-Theory:
+## Theory:
 •	A two way switch is installed near the first step of the stairs. The other two way switch is installed at the upper part where the stair ends.
 •	The light point is provided between first and last stair at an adequate location and height if the light is switched on by the lower switch. It can be switched off by the switch at the top or vice versa.
 •	The circuit can be used at the places like bed room where the person may  not  have  to  travel for switching off the light to the place from where the light is switched on.
 •	Two  numbers  of  two-way  switches  are  used  for  the  purpose.  The supply is given to the switch at the short circuited terminals.
 •	The  connection  to  the  light  point  is  taken  from  the  similar  short circuited  terminal  of  the   second  switch.   Order  two  independent terminals of each circuit are connected through  cables 
-PROCEDURE
+
+## PROCEDURE
 •  Place the accessories on the wiring board as per the circuit diagram.
 •  Place the P.V.C pipe and insert two wires into the P.V.C pipe.
 •	Take one wire connect one end to the phase side and other end to the middle point of SPDT switch 1
@@ -39,12 +41,15 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
-Tabulation:1
-	
-Cross connection: CIRCUIT DIAGRAM:
+# Direct connection: CIRCUIT DIAGRAM: 
+## Tabulation:1
+![WhatsApp Image 2025-11-14 at 13 42 33_45bc0cd0](https://github.com/user-attachments/assets/3788b7c2-252d-494b-9a59-c9e8317e833b)
 
-Tabulation:2
 
-RESULT:
+# Cross connection: CIRCUIT DIAGRAM:
+## Tabulation:2
+![WhatsApp Image 2025-11-14 at 13 42 34_06ccfb61](https://github.com/user-attachments/assets/b814f400-53ac-40c2-9084-143b4ab9922e)
+
+
+## RESULT:
 Thus the staircase wiring is connected and tested.
