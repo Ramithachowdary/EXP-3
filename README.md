@@ -44,11 +44,15 @@ switch2.
 ```
 
 # Direct connection: CIRCUIT DIAGRAM: 
+<img width="1035" height="627" alt="515544397-0ff11a2b-4d60-4151-bf9e-c4a233aa58aa" src="https://github.com/user-attachments/assets/27ac0465-8d7e-4a46-a6ec-9e7e799dbbb7" />
+
 ## Tabulation:1
 ![WhatsApp Image 2025-11-14 at 13 42 33_45bc0cd0](https://github.com/user-attachments/assets/3788b7c2-252d-494b-9a59-c9e8317e833b)
 
 
 # Cross connection: CIRCUIT DIAGRAM:
+<img width="1020" height="580" alt="515544542-af1e2de2-08e0-4d27-b350-b1e06e775b46" src="https://github.com/user-attachments/assets/788ea500-73f6-4240-8c33-6a449213a827" />
+
 ## Tabulation:2
 ![WhatsApp Image 2025-11-14 at 13 42 34_06ccfb61](https://github.com/user-attachments/assets/b814f400-53ac-40c2-9084-143b4ab9922e)
 
